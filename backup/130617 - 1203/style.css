@@ -1,0 +1,36 @@
+th, td{
+    margin: 0px;
+}
+
+table.master-table td{
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 0px solid white;
+}
+
+table.nested-table td, table.nested-table th {
+    border: 1px solid black;
+}
+
+tr.eliminated {
+    background-image: linear-gradient(to bottom right,  transparent calc(50% - 1px), red, transparent calc(50% + 5px)); 
+}
+
+#round-info {
+    float: right;
+    text-align: right;
+}
+
+#time-left {
+    font-size: 30px;
+}
+
+img.big-img{
+    height: 300px;
+    width: 300px;
+}
+
+img.small-img{
+    height: 200px;
+    width: 200px;
+}

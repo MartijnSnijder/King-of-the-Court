@@ -1,0 +1,9 @@
+{
+    "default": {
+        "team0": "team1.jpg",
+        "team1": "team2.png",
+        "team2": "team3.png",
+        "team3": "team4.png",
+        "team4": "team5.jpg"
+    }
+}
